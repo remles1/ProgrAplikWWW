@@ -1,0 +1,16 @@
+body{
+    font-family: "Roboto";
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    background-color: green;
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+.menu{
+    justify-content: space-around;
+    display: flex;
+    list-style-type: none;
+}
